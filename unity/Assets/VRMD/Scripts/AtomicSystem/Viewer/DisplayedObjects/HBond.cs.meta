@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9666c977725f4941a58ea1f70df0df3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _DashLine: {fileID: 2100000, guid: 43891595f6c8f44aa94eb7f040f928da, type: 2}
+  - displayedAtom_other: {instanceID: 0}
+  - displayedBond2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

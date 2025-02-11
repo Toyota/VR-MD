@@ -1,0 +1,16 @@
+//https://github.com/choderalab/ambermini/blob/master/share/amber/dat/leap/parm/gaff.dat
+
+hw 1.008         0.135
+ow 16.00         0.465
+
+ow-hw  399.8    0.9572
+hw-hw   16.4    1.5136
+
+hw-ow-hw  100.00      104.52
+hw-hw-ow    0.00      127.74
+
+  hw  ow  0000.     0000.
+
+  ow          1.7683  0.1520
+
+END

@@ -1,0 +1,19 @@
+{
+    "name": "HandInteraction",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f71475411bde7e346af33d6e6bbfc2c1",
+        "GUID:64b0ab473641e714482ab6ccbede6d3e",
+        "GUID:e4110d5b238be404eacc4b0a8a330a4f",
+        "GUID:86ba189008f0a284ba7bd18b18096fbf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

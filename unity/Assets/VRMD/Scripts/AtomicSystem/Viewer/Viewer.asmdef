@@ -1,0 +1,22 @@
+{
+    "name": "Viewer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:64b0ab473641e714482ab6ccbede6d3e",
+        "GUID:e4110d5b238be404eacc4b0a8a330a4f",
+        "GUID:3f6dc058258d39148bfd1f361bb5039c",
+        "GUID:bab9385507e86094ab86177fe5c6be36",
+        "GUID:86ba189008f0a284ba7bd18b18096fbf",
+        "GUID:145fc0dfcaef7dd4eba4d0d05ba1b275",
+        "GUID:50c04532b0b97464eb7d3f156581c57d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

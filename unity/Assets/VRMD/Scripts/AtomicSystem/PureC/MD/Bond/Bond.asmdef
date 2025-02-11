@@ -1,0 +1,19 @@
+{
+    "name": "Bond",
+    "rootNamespace": "",
+    "references": [
+        "GUID:35a42c42c9947fd46958fa8d3e694020",
+        "GUID:e4110d5b238be404eacc4b0a8a330a4f",
+        "GUID:86ba189008f0a284ba7bd18b18096fbf",
+        "GUID:3965dd0ace930a243861e244fe890719"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

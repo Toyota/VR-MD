@@ -1,0 +1,17 @@
+{
+    "name": "Controls_share",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bab9385507e86094ab86177fe5c6be36",
+        "GUID:77c83fa5450d2ce4d9837d81a5d783da"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
