@@ -53,11 +53,12 @@ The development environment uses Unity 2021.3.35f1. If you want to clone and use
 > Instead of Step 5 in the Dialog Window, you can downloaded "HandMR_iOS_plugin_for_projects_0.20.unitypackage" separately and import it from Assets > Import Package > Custom Package… in the menu bar.
 
 ### When NOT using Unity (Android only):
-- Save the xr_education.apk file from the build folder to your Android smartphone.
+- There are two pre-built apk files of this app in the build folder.
+- Please save xr_education.apk to your Android smartphone.
 - Tap the saved APK file to install the app.
 
 > [!NOTE]  
-> The method for installing apk files may vary depending on the Android smartphone, so please check if necessary.
+> The method for installing APK files may vary depending on the Android smartphone, so please check if necessary.
 
 ## Usage
 We recommend using clip-on VR goggles for smartphones, considering access to the camera and screen.
