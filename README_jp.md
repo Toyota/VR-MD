@@ -57,7 +57,7 @@ Copyright (c) 2024 TOYOTA MOTOR CORPORATION, TOYOTA CENTRAL R&D LABS., INC.
 > Dialog WindowのStep5の代わりに、HandMR_iOS_plugin_for_projects_0.20.unitypackageを別途ダウンロードし、メニューバーのAssets>Import Package>Custom Package…からインポートすることもできます。
 
 ### Unityを利用しない場合(Androidのみ):
-- buildフォルダ内に本アプリを事前にビルドしたapkファイルが2つあります。
+- [こちら](https://github.com/Kei441tx/VR-MD/releases/latest)に本アプリを事前にビルドしたapkファイルが2つあります。
 - xr_education.apkをAndroidスマホに保存してください。
 - 保存したxr_education.apkをタップし、アプリをインストールしてください。
 
