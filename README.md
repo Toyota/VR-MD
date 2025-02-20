@@ -53,7 +53,7 @@ The development environment uses Unity 2021.3.35f1. If you want to clone and use
 > Instead of Step 5 in the Dialog Window, you can downloaded "HandMR_iOS_plugin_for_projects_0.20.unitypackage" separately and import it from Assets > Import Package > Custom Package… in the menu bar.
 
 ### When NOT using Unity (Android only):
-- The two pre-built APK files of this app are [here](https://github.com/Kei441tx/VR-MD/releases/latest).
+- The two pre-built APK files of this app are [here](https://github.com/Toyota/VR-MD/releases/latest).
 - Please save xr_education.apk to your Android smartphone.
 - Tap the saved APK file to install the app.
 
