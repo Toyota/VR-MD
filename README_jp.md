@@ -57,7 +57,7 @@ Copyright (c) 2024 TOYOTA MOTOR CORPORATION, TOYOTA CENTRAL R&D LABS., INC.
 > Dialog WindowのStep5の代わりに、HandMR_iOS_plugin_for_projects_0.20.unitypackageを別途ダウンロードし、メニューバーのAssets>Import Package>Custom Package…からインポートすることもできます。
 
 ### Unityを利用しない場合(Androidのみ):
-- [こちら](https://github.com/Kei441tx/VR-MD/releases/latest)に本アプリを事前にビルドしたapkファイルが2つあります。
+- [こちら](https://github.com/Toyota/VR-MD/releases/latest)に本アプリを事前にビルドしたapkファイルが2つあります。
 - xr_education.apkをAndroidスマホに保存してください。
 - 保存したxr_education.apkをタップし、アプリをインストールしてください。
 
@@ -86,7 +86,7 @@ Copyright (c) 2024 TOYOTA MOTOR CORPORATION, TOYOTA CENTRAL R&D LABS., INC.
 > [!NOTE]  
 > #### 1画面モード:
 > スマホ用VRゴーグルを使用せずに、分子を観察・体験することも可能です。
-> Unityを利用してインストールする際に、UnityエディタのHierarchyからXRHandViewerSystem>XRHandSystemを選択し、DefaultSettingsVRのGoggle Modeを1に変更してください。またAndroidスマホの場合は、buildフォルダ内のxr_education_singlecamera.apkも利用可能です。
+> Unityを利用してインストールする際に、UnityエディタのHierarchyからXRHandViewerSystem>XRHandSystemを選択し、DefaultSettingsVRのGoggle Modeを1に変更してください。またAndroidスマホの場合は、[こちら](https://github.com/Toyota/VR-MD/releases/latest)のxr_education_singlecamera.apkも利用可能です。
 
 
 ## License

@@ -75,7 +75,7 @@ Touching or moving the molecules will increase the "current temperature" display
 
 > [!NOTE]  
 > #### Single Camera Mode:
-> You can observe and experience molecules without using VR goggles for smartphones. When installing with Unity, select XRHandViewerSystem > XRHandSystem from the Unity Editor's Hierarchy, and change the Goggle Mode in DefaultSettingsVR to 1. For Android smartphones, you can also use the xr_education_singlecamera.apk file in the build folder.
+> You can observe and experience molecules without using VR goggles for smartphones. When installing with Unity, select XRHandViewerSystem > XRHandSystem from the Unity Editor's Hierarchy, and change the Goggle Mode in DefaultSettingsVR to 1. For Android smartphones, you can also use the xr_education_singlecamera.apk file [here](https://github.com/Toyota/VR-MD/releases/latest).
 
 ## License
 The source code in this repository is licensed under [the MIT license](./LICENSE).
