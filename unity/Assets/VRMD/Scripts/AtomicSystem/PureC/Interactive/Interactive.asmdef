@@ -1,0 +1,16 @@
+{
+    "name": "Interactive",
+    "rootNamespace": "",
+    "references": [
+        "GUID:64b0ab473641e714482ab6ccbede6d3e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

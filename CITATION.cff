@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Matsuda"
+  given-names: "Kenroh"
+title: VR-MD
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Matsuda"
+    given-names: "Kenroh"
+  - family-names: "Kikkawa"
+    given-names: "Nobuaki"
+  - family-names: "Kajita"
+    given-names: "Seiji"
+  - family-names: "Sato"
+    given-names: "Sota"
+  - family-names: "Tanikawa"
+    given-names: "Tomohiro"
+  doi: "10.1007/978-3-031-34550-0_13"
+  journal: "Springer, Cham"
+  month: 6
+  start: 183 # First page number
+  end: 198 # Last page number
+  title: "Educational Effect of Molecular Dynamics Simulation in a Smartphone Virtual Reality System"
+  volume: 14041
+  year: 2023

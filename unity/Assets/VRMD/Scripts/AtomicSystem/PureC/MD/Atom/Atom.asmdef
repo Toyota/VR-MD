@@ -1,0 +1,16 @@
+{
+    "name": "Atom",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e4110d5b238be404eacc4b0a8a330a4f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

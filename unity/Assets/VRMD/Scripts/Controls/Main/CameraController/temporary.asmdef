@@ -1,0 +1,17 @@
+{
+    "name": "temporary",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3f6dc058258d39148bfd1f361bb5039c",
+        "GUID:bab9385507e86094ab86177fe5c6be36"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

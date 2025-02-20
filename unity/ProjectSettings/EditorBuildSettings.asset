@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VRMD/Scenes/Water/Water32.unity
+    guid: 08fff3a007efc4701a1a6ea5c7b1677b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 653af396fb76a41a09500efe8d42c0ce,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 68bcf0979e3fd4124b2e1f5b40e333be,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 60d8efb9d65844281a0f2db5eb6042ea,
+      type: 2}
+    WebXR.Settings: {fileID: 11400000, guid: 4027933f720876145bada30eecac8386, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: fcd65313a2ddea44c8b3cb10bbfca84c,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fa7be9f711cee46d7a4e6e597cebf226,
+      type: 2}
