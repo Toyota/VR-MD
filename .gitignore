@@ -41,7 +41,6 @@ sysinfo.txt
 
 # Builds
 *.apk
-# !/build/xr_education*.apk
 *.unitypackage
 
 # Visual Studio
