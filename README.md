@@ -31,7 +31,7 @@ In chemistry, understanding the structure and fluctuations of molecules is cruci
 ## Requirements
 This app operates on Android devices compatible with ARCore and on iOS devices compatible with ARKit.
 
-The development environment uses Unity 2021.3.35f1. If you want to clone and use this repository, the following assets are required:
+The development environment uses Unity 2021.3.56f2. If you want to clone and use this repository, the following assets are required:
 
 - HandMR_0.22.1.unitypackage
 
