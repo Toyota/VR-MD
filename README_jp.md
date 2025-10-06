@@ -33,7 +33,7 @@ Copyright (c) 2024 TOYOTA MOTOR CORPORATION, TOYOTA CENTRAL R&D LABS., INC.
 ## Requirements
 このアプリは、ARCoreに対応したAndroid上およびARKitに対応したiOS上で動作します。
 
-開発環境にはUnity2021.3.35f1を使用しています。  
+開発環境にはUnity2021.3.56f2を使用しています。  
 本リポジトリをクローンして利用する場合、下記のアセットが必要です。
 
 - HandMR_0.22.1.unitypackage
