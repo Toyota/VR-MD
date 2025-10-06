@@ -9,6 +9,7 @@ public class DefaultSettingsVR : MonoBehaviour
 {
     public int GoggleMode = 0;
     public int HandDetectionMode = 0;
+    public int ScreenSize = 0;
 
     void Awake()
     {
@@ -16,6 +17,8 @@ public class DefaultSettingsVR : MonoBehaviour
 #if UNITY_IOS || UNITY_ANDROID
         PlayerPrefs.SetInt("HandMR_GoogleMode", GoggleMode);
         PlayerPrefs.SetInt("HandMR_HandDetectionMode", HandDetectionMode);
+        PlayerPrefs.SetInt("HandMR_ScreenSize", ScreenSize);
+        
         QualitySettings.vSyncCount = 0;
         Application.targetFrameRate = 60;
 
